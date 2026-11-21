@@ -1,0 +1,16 @@
+2026-11-21 10:00:00 - INFO - === SISTEMA DE FIGURAS 3D INICIADO ===
+2026-11-21 10:00:01 - INFO - CUBO creado exitosamente con lado = 5
+2026-11-21 10:00:02 - INFO - ESFERA creada exitosamente con radio = 3
+2026-11-21 10:00:03 - INFO - CILINDRO creado exitosamente — Radio = 2, Altura = 6
+2026-11-21 10:00:04 - INFO - CUBO creado exitosamente con lado = 4
+2026-11-21 10:00:05 - INFO - ESFERA creada exitosamente con radio = 5
+2026-11-21 10:00:06 - INFO - CILINDRO creado exitosamente — Radio = 3, Altura = 8
+2026-11-21 10:00:07 - ERROR - Intento de crear Cubo con lado inválido: -2
+2026-11-21 10:00:07 - ERROR - Error al crear Cubo: El lado debe ser mayor a cero. Valor recibido: -2
+2026-11-21 10:00:08 - ERROR - Intento de crear Esfera con radio inválido: 0
+2026-11-21 10:00:08 - ERROR - Error al crear Esfera: El radio debe ser mayor a cero. Valor recibido: 0
+2026-11-21 10:00:10 - INFO - Mostrando lista de todas las figuras registradas
+2026-11-21 10:00:12 - INFO - Calculando volúmenes de todas las figuras
+2026-11-21 10:00:15 - INFO - Calculando áreas superficiales — escala estándar
+2026-11-21 10:00:18 - INFO - Calculando áreas superficiales — escala ×2
+2026-11-21 10:00:20 - INFO - === APLICACIÓN CERRADA ===
